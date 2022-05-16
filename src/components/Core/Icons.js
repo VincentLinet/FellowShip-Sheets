@@ -1,0 +1,5 @@
+export { default as Identity } from "../../assets/icons/identity"
+export { default as Statistics } from "../../assets/icons/statistics"
+export { default as Competences } from "../../assets/icons/competences"
+export { default as Inventory } from "../../assets/icons/inventory"
+export { default as Notes } from "../../assets/icons/notes"

@@ -1,0 +1,32 @@
+{
+  "navigation": {
+    "identity": "Identité",
+    "statistics": "Statistiques",
+    "competences": "Aptitudes",
+    "inventory": "Inventaire",
+    "notes": "Notes"
+  },
+  "personnality": {
+    "gifts": "Dons",
+    "lacks": "Handicaps"
+  },
+  "common": {
+    "skill": "Talent",
+    "skills": "Talents",
+    "gift": "Don",
+    "strength": "Force",
+    "dexterity": "Adresse",
+    "constitution": "Constitution",
+    "intelligence": "Intelligence",
+    "wisdom": "Sagesse",
+    "charisma": "Charisme",
+    "engineering": "Ingénieurie",
+    "gear": "Équipement",
+    "mana": "Mana",
+    "health": "Santé",
+    "quickness": "Vitesse",
+    "singing": "Chant",
+    "cancel": "Annuler",
+    "save": "Enregistrer"
+  }
+}

@@ -1,0 +1,5 @@
+export { default as Folk } from "../../assets/icons/blood"
+export { default as Birth } from "../../assets/icons/heart"
+export { default as Vocation } from "../../assets/icons/book"
+export { default as Modifier } from "../../assets/icons/modifier"
+export { default as Total } from "../../assets/icons/total"
